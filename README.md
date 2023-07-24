@@ -23,10 +23,11 @@ GET /questions/:id View a question and its options, including the votes given to
 <h2>Features:</h2>
 <br>
 <ul>
-  <li>Create a question.
-Add options to a question.
-Add a vote to an option of a question.
-Delete a question (only if none of its options have votes).
-Delete an option (only if it has no votes).
+  <li>Create a question.</li>
+<li>Add options to a question.</li>
+<li>Add a vote to an option of a question.</li>
+<li>Delete a question (only if none of its options have votes).</li>
+<li>Delete an option (only if it has no votes).</li>
+  <li>
 View a question with its options.</li>
 </ul>
